@@ -15,7 +15,7 @@ After pressing "Enter" on keyboard, it will print ""Please select the type of yo
 ## How to contribute:
 This program is limited to calculate the area of five different kind of shape. If you would like to contribute to this file, please follow the instructions bellow:
 Step 1: Fork the desired project.
-Step 2 - Clone the Project. 
+Step 2 - Clone the Project. <br />
 Step 3 - Create A New Branch. 
 Step 4 - Develop, Stage, and Commit. 
 Step 5 - Push the Changes. 
